@@ -4,7 +4,7 @@
 
 # 地址对照表
 
-- https://www.googleapis.com/tokeninfo
+- https://oauth2.googleapis.com/tokeninfo
 
   > https://google-oauth2.now.sh/api/tokeninfo
 
