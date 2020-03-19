@@ -4,10 +4,10 @@
 
 # 地址对照表
 
-- https://oauth2.googleapis.com/tokeninfo
+- https://www.googleapis.com/tokeninfo
 
   > https://google-oauth2.now.sh/api/tokeninfo
 
-- https://oauth2.googleapis.com/oauth2/v4/token
+- https://www.googleapis.com/oauth2/v4/token
 
   > https://google-oauth2.now.sh/api/oauth2/v4/token
